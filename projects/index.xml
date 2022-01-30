@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on pennatia</title>
+    <link>https://pennatia.github.io/projects/</link>
+    <description>Recent content in Projects on pennatia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021 Angelo Pennati</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="https://pennatia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Art</title>
+      <link>https://pennatia.github.io/projects/generative-art/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/generative-art/</guid>
+      <description>Context This Generative Art section is really more related to a passion project, which includes a few separate little explorations into the world of generative art, completed in Python.
+Scope &amp;amp; Methodology Generally, the projects in the repos listed below are completed using Python&amp;rsquo;s Cairo Package, the only exception being the ASCII converter (with which the image you see on the bottom of the screen was originally created)
+Here, I attempt to generate some art generatively through code, in order to create single, non-replicable vector graphics, like those you can find in the github repos.</description>
+    </item>
+    
+    <item>
+      <title>MNIST Modeling Project</title>
+      <link>https://pennatia.github.io/projects/mnist-modeling/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/mnist-modeling/</guid>
+      <description>Context This project is an extension of the &amp;ldquo;Data Science Algorithms&amp;rdquo; repo that you can explore in the &amp;ldquo;repos&amp;rdquo; section. Essentially, it&amp;rsquo;s an exploration of the MNIST Datasets using various machine learning &amp;amp; data science methodologies, mostly built from scratch.
+Scope &amp;amp; Methodology The goal of this project was to:
+ Feature Reduce the MNIST Dataset Understand which features and methodologies are most useful to accurately categorize a new input image Generate a model, the analysis of which could be easily digested and understood.</description>
+    </item>
+    
+    <item>
+      <title>Restricted Boltzmann Machine for Perceptual Organization</title>
+      <link>https://pennatia.github.io/projects/computational-neuroscience-projects/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/computational-neuroscience-projects/</guid>
+      <description>Context This project was completed during my time as a Computational Neuroscience Researcher at the Ma Lab for Computational Neuroscience.
+Scope &amp;amp; Methodology In short, it&amp;rsquo;s an implementation of a restricted boltzmann machine geared towards simulating a visual occlusion decision-making task. In this case, the decision is whether a line, blocked by some occlusion, is perceived as a singular line, or two separate lines.
+The Restricted Boltzmann Machine is created in order to analyze different types of probabilistic models, and determine which is closest to the results seen in human trials.</description>
+    </item>
+    
+    <item>
+      <title>Siegbrau YT (YouTube Dislike Calculator)</title>
+      <link>https://pennatia.github.io/projects/siegbrau-yt/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/siegbrau-yt/</guid>
+      <description>Context This is a project initiated in conjunction with a dear friend, in an attempt to estimate the total number of dislikes associated with a given YouTube video (following YT&amp;rsquo;s elimination of the dislike button). Siegbrau is a direct reference to Dark Souls, but is a cool name and little else.
+Method &amp;amp; Scope Update 1 - This project is created in Python. Initially, I created a small desktop app that essentially performs a crude version of sentiment analysis on a given video&amp;rsquo;s comment section.</description>
+    </item>
+    
+  </channel>
+</rss>
