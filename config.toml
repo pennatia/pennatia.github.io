@@ -43,9 +43,9 @@ title = "Email"
 url = "mailto:pennatia@gmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "fab fa-linkedin-in"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/angelo-pennati/"
 
 [[params.customCSS]]
 href = "static/css"
