@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello! on pennatia</title>
+    <link>https://pennatia.github.io/</link>
+    <description>Recent content in Hello! on pennatia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021 Angelo Pennati</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="https://pennatia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://pennatia.github.io/resume/</link>
+      <pubDate>Tue, 08 Mar 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/resume/</guid>
+      <description>Education  MSc in Data Science (Machine Learning &amp;amp; AI Track) \
+Johns Hopkins University: Whiting School of Engineering (June 2021-present)
+Current GPA: 4.30/4.30 BSc in Neural Sciences; BA in Economics
+New York University: College of Arts and Sciences (2014-2018)
+Cumulative GPA: 3.64/4.00 \ Presidential Honors Scholar  Professional Experience  Quantilope - Research Consultant \
+Hamburg, Germany &amp;amp; New York, USA | 2021-Present 2110 - Research Analyst \ New York, USA | 2020 - 2021 SPARK Neuro - Sr.</description>
+    </item>
+    
+    <item>
+      <title>Siegbrau YT (YouTube Dislike Calculator)</title>
+      <link>https://pennatia.github.io/projects/siegbrau-yt/</link>
+      <pubDate>Tue, 08 Mar 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/siegbrau-yt/</guid>
+      <description>Context This is a project initiated in conjunction with a dear friend, in an attempt to estimate the total number of dislikes associated with a given YouTube video (following YT&amp;rsquo;s elimination of the dislike button). Siegbrau is a direct reference to Dark Souls, but is a cool name and little else.
+Method &amp;amp; Scope Update 1 - This project is created in Python. Initially, I created a small desktop app that essentially performs a crude version of sentiment analysis on a given video&amp;rsquo;s comment section.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pennatia.github.io/about/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/about/</guid>
+      <description>Welcome to my portfolio website. I&#39;m Angelo Pennati.
+ I was born in Milan (Italy) and studied Neuroscience and Economics at NYU. I am also currently pursuing an M.S. in Data Science (Machine Learning track) from Johns Hopkins University.
+ I first landed in the coding world as a researcher in Weiji Ma&#39;s Computational Neuroscience Laboratory, and have continued to chase its white rabbit ever since.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Implementations &amp; Notebooks</title>
+      <link>https://pennatia.github.io/repos/data-science-algorithms/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/repos/data-science-algorithms/</guid>
+      <description>This is a repo of python code and Jupyter notebooks of multiple and various algorithms used in Data Science. Each of these projects has a self-implemented piece of code, as well as a Jupyter notebook explaining the implementation and allowing for a reference. Please use the links below to access the respective notebooks:
+ Introductory Data Cleaning (Z-Scoring &amp;amp; Charting) Mahalanobis Distance Implementation Feature Reduction (2D-DCT &amp;amp; PCA) Expectation Maximization Linear Discriminant Analysis  The entirety of the repo can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Encryption Implementations</title>
+      <link>https://pennatia.github.io/repos/encryption-algorithms/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/repos/encryption-algorithms/</guid>
+      <description>This is a repo of python code of multiple algorithms used within the field of encryption. Each of these projects has a self-implemented piece of code, as well as a read-me reference. The input and output data files are also available. Please use the links below to access the respective implements:
+ Frequency Analysis Encryption Hill Cypher Encryption LFSR Image Encrypter  The entirety of the repo can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Game Theory Projects</title>
+      <link>https://pennatia.github.io/repos/game-theory/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/repos/game-theory/</guid>
+      <description>This is a repo of python code of multiple algorithms used within the field of game theory and gaming. Each of these projects has a self-implemented piece of code, as well as a read-me reference. The input and output data files are also available.
+So far, I have only implemented MiniMax for Tic Tac Toe. Please use the links below to access the respective implements:
+ Minimax - includes TicTacToe tkinter game, with relative credits.</description>
+    </item>
+    
+    <item>
+      <title>Generative Art</title>
+      <link>https://pennatia.github.io/projects/generative-art/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/generative-art/</guid>
+      <description>Context This Generative Art section is really more related to a passion project, which includes a few separate little explorations into the world of generative art, completed in Python.
+Scope &amp;amp; Methodology Generally, the projects in the repos listed below are completed using Python&amp;rsquo;s Cairo Package, the only exception being the ASCII converter (with which the image you see on the bottom of the screen was originally created)
+Here, I attempt to generate some art generatively through code, in order to create single, non-replicable vector graphics, like those you can find in the github repos.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Mathematics</title>
+      <link>https://pennatia.github.io/repos/miscellaneous-mathematics/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/repos/miscellaneous-mathematics/</guid>
+      <description>This is a repo of python code of multiple algorithms for miscellaneous concepts in number theory. Each of these projects has a self-implemented piece of code, as well as a read-me reference. The input and output data files are also available.
+ Catalan Numbers Pascal Numbers  </description>
+    </item>
+    
+    <item>
+      <title>MNIST Modeling Project</title>
+      <link>https://pennatia.github.io/projects/mnist-modeling/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/mnist-modeling/</guid>
+      <description>Context This project is an extension of the &amp;ldquo;Data Science Algorithms&amp;rdquo; repo that you can explore in the &amp;ldquo;repos&amp;rdquo; section. Essentially, it&amp;rsquo;s an exploration of the MNIST Datasets using various machine learning &amp;amp; data science methodologies, mostly built from scratch.
+Scope &amp;amp; Methodology The goal of this project was to:
+ Feature Reduce the MNIST Dataset Understand which features and methodologies are most useful to accurately categorize a new input image Generate a model, the analysis of which could be easily digested and understood.</description>
+    </item>
+    
+    <item>
+      <title>Restricted Boltzmann Machine for Perceptual Organization</title>
+      <link>https://pennatia.github.io/projects/computational-neuroscience-projects/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pennatia.github.io/projects/computational-neuroscience-projects/</guid>
+      <description>Context This project was completed during my time as a Computational Neuroscience Researcher at the Ma Lab for Computational Neuroscience.
+Scope &amp;amp; Methodology In short, it&amp;rsquo;s an implementation of a restricted boltzmann machine geared towards simulating a visual occlusion decision-making task. In this case, the decision is whether a line, blocked by some occlusion, is perceived as a singular line, or two separate lines.
+The Restricted Boltzmann Machine is created in order to analyze different types of probabilistic models, and determine which is closest to the results seen in human trials.</description>
+    </item>
+    
+  </channel>
+</rss>
